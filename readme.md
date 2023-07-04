@@ -1,2 +1,2 @@
 Sample code 
-#trigger1
+#trigger2
